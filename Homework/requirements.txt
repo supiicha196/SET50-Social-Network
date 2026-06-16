@@ -1,6 +1,0 @@
-streamlit
-pandas
-networkx
-pyvis
-plotly
-playwright
